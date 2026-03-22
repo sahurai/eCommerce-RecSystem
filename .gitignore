@@ -1,5 +1,10 @@
+# Model (too large for github)
+/models/
+
 # Data
 /data/
+
+/models/
 
 # Mac OS-specific storage files
 .DS_Store
